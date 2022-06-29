@@ -16,3 +16,6 @@ https://dante6997.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Dante Rodriguez
+
+
+### &copy;2019 Run Buddy, Inc
